@@ -20,7 +20,9 @@
         "YRTSK_Vehicle_Dagor",
         "YRTSK_Moto_Mechanic",
         "YRTSK_Moto_Monstrosity",
-        "YRTSK_Wasp_Olympus"
+        "YRTSK_Wasp_Olympus",
+		"YRTSK_Moto_Gryphon",
+		"YRTSK_Cyborg_Sets"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
