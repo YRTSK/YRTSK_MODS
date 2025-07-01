@@ -18,7 +18,8 @@
         "YRTSK_Cyborg_Sets",
         "YRTSK_Moto_Monstrosity",
         "YRTSK_AlienPod",
-        "YRTSK_Vehicle_Exoplanet_Rover"
+        "YRTSK_Vehicle_Exoplanet_Rover",
+		"YRTSK_Save_Item"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
