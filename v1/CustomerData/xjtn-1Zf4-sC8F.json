@@ -24,7 +24,8 @@
         "YRTSK_Moto_Metropolis",
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Moto_Santa",
-		"YRTSK_Vehicle_Exoplanet_Rover"
+		"YRTSK_Vehicle_Exoplanet_Rover",
+		"YRTSK_Armory_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
