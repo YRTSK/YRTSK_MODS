@@ -38,7 +38,8 @@
         "YRTSK_Wasp_Pirate",
         "YRTSK_Moto_Gryphon",
         "YRTSK_Save_Item",
-		"YRTSK_Login_GodMode"
+		"YRTSK_Login_GodMode",
+		"YRTSK_Warthog_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
