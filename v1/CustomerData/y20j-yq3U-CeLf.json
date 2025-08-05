@@ -23,7 +23,8 @@
         "YRTSK_Wasp_Olympus",
 		"YRTSK_Moto_Gryphon",
 		"YRTSK_Cyborg_Sets",
-		"YRTSK_Save_Item"
+		"YRTSK_Save_Item",
+		"YRTSK_Armory_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
