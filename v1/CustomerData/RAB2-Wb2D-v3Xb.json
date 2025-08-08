@@ -20,7 +20,8 @@
         "YRTSK_AlienPod",
         "YRTSK_Vehicle_Exoplanet_Rover",
 		"YRTSK_Save_Item",
-		"YRTSK_Wasp_Pirate"
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_CyberCar"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
