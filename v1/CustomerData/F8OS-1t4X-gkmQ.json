@@ -9,7 +9,8 @@
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Vehicle_Dagor"
+        "YRTSK_Vehicle_Dagor",
+		"YRTSK_Car_Damager"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,

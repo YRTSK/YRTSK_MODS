@@ -15,7 +15,8 @@
         "YRTSK_Vehicle_Dagor",
         "YRTSK_Moto_Santa",
         "YRTSK_Wasp_Olympus",
-		"YRTSK_Wasp_Pirate"
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_Car_Damager"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,

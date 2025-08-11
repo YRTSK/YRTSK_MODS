@@ -11,7 +11,8 @@
         "YRTSK_Vehicle_Dagor",
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Wasp_Olympus",
-        "YRTSK_Teleport_System"
+        "YRTSK_Teleport_System",
+		"YRTSK_Car_Damager"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
