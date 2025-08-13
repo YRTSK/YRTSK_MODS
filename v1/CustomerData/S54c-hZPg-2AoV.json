@@ -1,15 +1,13 @@
 {
     "is_active_key": 1,
     "ips": [
-        "103.255.71.13"
+        "104.192.227.42"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Wasp_Falcon",
-        "YRTSK_Vehicle_Dagor",
         "YRTSK_Moto_Shark"
     ],
     "enable_ip_notify": 1,
