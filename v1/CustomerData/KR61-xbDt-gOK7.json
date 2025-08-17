@@ -23,7 +23,8 @@
 		"YRTSK_Wasp_Fighter",
 		"YRTSK_Wasp_Interceptor",
 		"YRTSK_Wasp_Pirate",
-		"YRTSK_Save_Item"
+		"YRTSK_Save_Item",
+		"YRTSK_Warthog_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
