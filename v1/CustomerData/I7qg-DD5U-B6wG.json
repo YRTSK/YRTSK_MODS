@@ -1,7 +1,7 @@
 {
     "is_active_key": 1,
     "ips": [
-        "88.151.117.173"
+        "0.0.0.0"
     ],
     "names": [
         ["test","project","name"],
