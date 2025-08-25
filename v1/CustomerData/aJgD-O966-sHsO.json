@@ -16,7 +16,9 @@
         "YRTSK_Moto_Santa",
         "YRTSK_Wasp_Olympus",
 		"YRTSK_Wasp_Pirate",
-		"YRTSK_Car_Damager"
+		"YRTSK_Car_Damager",
+		"YRTSK_Warthog_2",
+		"YRTSK_Hero_Weapon_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
