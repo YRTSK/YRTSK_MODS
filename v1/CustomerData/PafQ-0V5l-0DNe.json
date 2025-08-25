@@ -12,7 +12,9 @@
 		"YRTSK_Moto_Shark",
 		"YRTSK_Moto_Warrior",
 		"YRTSK_Moto_Metropolis",
-		"YRTSK_Moto_Monstrosity"
+		"YRTSK_Moto_Monstrosity",
+		"YRTSK_Armory_Pack",
+		"YRTSK_Hero_Weapon_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
