@@ -41,7 +41,8 @@
 		"YRTSK_Login_GodMode",
 		"YRTSK_Warthog_2",
 		"YRTSK_CyberCar",
-		"YRTSK_Car_Damager"
+		"YRTSK_Car_Damager",
+		"YRTSK_Artifacts"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
