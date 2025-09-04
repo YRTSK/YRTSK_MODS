@@ -42,7 +42,8 @@
 		"YRTSK_Warthog_2",
 		"YRTSK_CyberCar",
 		"YRTSK_Car_Damager",
-		"YRTSK_Artifacts"
+		"YRTSK_Artifacts",
+		"YRTSK_Mini_Rover"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
