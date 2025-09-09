@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_Wasp_Drakos",
 		"YRTSK_Wasp_Nomad",
-		"YRTSK_Save_Item"
+		"YRTSK_Save_Item",
+		"YRTSK_Moto_Gryphon"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
