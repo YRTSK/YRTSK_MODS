@@ -30,7 +30,8 @@
 		"YRTSK_Moto_Gryphon",
 		"YRTSK_Moto_Warrior",
 		"YRTSK_Artifacts",
-		"YRTSK_Moto_Shark"
+		"YRTSK_Moto_Shark",
+		"YRTSK_Moto_Metropolis"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
