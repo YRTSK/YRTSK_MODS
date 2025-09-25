@@ -43,7 +43,8 @@
 		"YRTSK_CyberCar",
 		"YRTSK_Car_Damager",
 		"YRTSK_Artifacts",
-		"YRTSK_Mini_Rover"
+		"YRTSK_Mini_Rover",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
