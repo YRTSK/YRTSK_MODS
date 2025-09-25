@@ -17,7 +17,8 @@
 		"YRTSK_Wasp_Olympus",
 		"YRTSK_Moto_Gryphon",
 		"YRTSK_Car_Damager",
-		"YRTSK_Moto_Monstrosity"
+		"YRTSK_Moto_Monstrosity",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
