@@ -10,7 +10,9 @@
     "mods": [
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Moto_Shark",
-		"YRTSK_Wasp_Pirate"
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_Moto_Warrior",
+		"YRTSK_AlienPod"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
