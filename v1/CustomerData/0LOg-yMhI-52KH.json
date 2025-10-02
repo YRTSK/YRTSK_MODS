@@ -21,7 +21,8 @@
 		"YRTSK_AlienPod",
 		"YRTSK_Wasp_Fighter",
 		"YRTSK_Wasp_Interceptor",
-		"YRTSK_Moto_Gryphon"
+		"YRTSK_Moto_Gryphon",
+		"YRTSK_Astralis"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
