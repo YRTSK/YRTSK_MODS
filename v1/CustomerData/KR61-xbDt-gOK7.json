@@ -34,7 +34,8 @@
 		"YRTSK_Moto_Metropolis",
 		"YRTSK_AlienPod",
 		"YRTSK_Mini_Rover",
-		"YRTSK_StaticProps_2"
+		"YRTSK_StaticProps_2",
+		"YRTSK_Astralis"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
