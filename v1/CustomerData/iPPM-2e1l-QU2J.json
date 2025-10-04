@@ -11,7 +11,11 @@
         "YRTSK_Wasp_Interceptor",
         "YRTSK_Wasp_Nomad",
         "YRTSK_Furniture_Pack",
-		"YRTSK_Car_Damager"
+		"YRTSK_Car_Damager",
+		"YRTSK_Save_Item",
+		"YRTSK_Artifacts",
+		"YRTSK_CyberCar",
+		"YRTSK_Vehicle_Exoplanet_Rover"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
