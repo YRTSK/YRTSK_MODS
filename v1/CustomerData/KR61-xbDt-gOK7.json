@@ -33,7 +33,8 @@
 		"YRTSK_AlienPod",
 		"YRTSK_Mini_Rover",
 		"YRTSK_StaticProps_2",
-		"YRTSK_Astralis"
+		"YRTSK_Astralis",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
