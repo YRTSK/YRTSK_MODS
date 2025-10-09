@@ -18,7 +18,8 @@
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_Car_Damager",
 		"YRTSK_Warthog_2",
-		"YRTSK_Hero_Weapon_Pack"
+		"YRTSK_Hero_Weapon_Pack",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
