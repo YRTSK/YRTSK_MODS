@@ -16,7 +16,9 @@
         "YRTSK_ExoSoldier",
         "YRTSK_Hero_Weapon_Pack",
 		"YRTSK_Armory_Pack",
-		"YRTSK_Wasp_Pirate"
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_Wasp_Raider",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
