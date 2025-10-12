@@ -34,7 +34,8 @@
 		"YRTSK_Mini_Rover",
 		"YRTSK_StaticProps_2",
 		"YRTSK_Astralis",
-		"YRTSK_Pumpkin_Bro"
+		"YRTSK_Pumpkin_Bro",
+		"YRTSK_Wasp_Raider"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
