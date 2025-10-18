@@ -12,7 +12,8 @@
         "YRTSK_Covenants_Elite",
         "YRTSK_Vehicle_Dagor",
         "YRTSK_Moto_Mechanic",
-        "YRTSK_Moto_Monstrosity"
+        "YRTSK_Moto_Monstrosity",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
