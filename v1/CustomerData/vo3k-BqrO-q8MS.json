@@ -1,14 +1,15 @@
 {
     "is_active_key": 1,
     "ips": [
-        "193.25.252.86"
+        "37.156.35.26"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_ExoSoldier"
+        "YRTSK_ExoSoldier",
+		"YRTSK_Moto_Monstrosity"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
