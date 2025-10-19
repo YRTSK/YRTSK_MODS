@@ -22,7 +22,12 @@
 		"YRTSK_Wasp_Fighter",
 		"YRTSK_Wasp_Interceptor",
 		"YRTSK_Moto_Gryphon",
-		"YRTSK_Astralis"
+		"YRTSK_Astralis",
+		"YRTSK_Pumpkin_Bro",
+		"YRTSK_Wasp_Drakos",
+		"YRTSK_Wasp_Scarab",
+		"YRTSK_Wasp_Raider",
+		"YRTSK_Moto_Santa"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
