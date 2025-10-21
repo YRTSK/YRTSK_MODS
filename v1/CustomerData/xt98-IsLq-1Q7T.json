@@ -10,7 +10,9 @@
     ],
     "mods": [
         "YRTSK_Wasp_Falcon",
-		"YRTSK_Covenants_Elite"
+		"YRTSK_Covenants_Elite",
+		"YRTSK_Moto_Gryphon",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
