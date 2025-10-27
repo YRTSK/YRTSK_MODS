@@ -1,0 +1,22 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "185.207.214.115"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Pumpkin_Bro",
+		"YRTSK_AlienPod",
+		"YRTSK_Artifacts",
+		"YRTSK_Wasp_Nomad",
+		"YRTSK_Moto_Mechanic",
+		"YRTSK_Car_Damager",
+		"YRTSK_Armory_Pack"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}
