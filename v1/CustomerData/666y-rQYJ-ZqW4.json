@@ -18,7 +18,8 @@
 		"YRTSK_Moto_Gryphon",
 		"YRTSK_Car_Damager",
 		"YRTSK_Moto_Monstrosity",
-		"YRTSK_StaticProps_2"
+		"YRTSK_StaticProps_2",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
