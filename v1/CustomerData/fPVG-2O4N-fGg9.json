@@ -12,7 +12,9 @@
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Wasp_Olympus",
         "YRTSK_Teleport_System",
-		"YRTSK_Car_Damager"
+		"YRTSK_Car_Damager",
+		"YRTSK_Pumpkin_Bro",
+		"YRTSK_AlienPod"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
