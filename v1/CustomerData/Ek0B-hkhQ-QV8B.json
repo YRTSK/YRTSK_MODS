@@ -17,7 +17,8 @@
         "YRTSK_Wasp_Nomad",
         "YRTSK_Vehicle_Dagor",
 		"YRTSK_Wasp_Pirate",
-		"YRTSK_StaticProps_2"
+		"YRTSK_StaticProps_2",
+		"YRTSK_Wasp_Stellaris"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
