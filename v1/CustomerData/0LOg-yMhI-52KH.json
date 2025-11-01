@@ -27,7 +27,13 @@
 		"YRTSK_Wasp_Drakos",
 		"YRTSK_Wasp_Scarab",
 		"YRTSK_Wasp_Raider",
-		"YRTSK_Moto_Santa"
+		"YRTSK_Moto_Santa",
+		"YRTSK_Wasp_Olympus",
+		"YRTSK_Wasp_Stellaris",
+		"YRTSK_Armory_Pack",
+		"YRTSK_Hero_Weapon_Pack",
+		"YRTSK_Vehicle_Exoplanet_Rover",
+		"YRTSK_Moto_Metropolis"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
