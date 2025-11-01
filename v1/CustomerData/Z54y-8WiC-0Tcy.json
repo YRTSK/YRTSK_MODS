@@ -12,7 +12,8 @@
         "YRTSK_Moto_Shark",
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_Moto_Warrior",
-		"YRTSK_AlienPod"
+		"YRTSK_AlienPod",
+		"YRTSK_Wasp_Stellaris"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
