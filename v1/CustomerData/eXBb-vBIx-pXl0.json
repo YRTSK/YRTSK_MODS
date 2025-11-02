@@ -12,7 +12,9 @@
         "YRTSK_Warthog_2",
 		"YRTSK_StaticProps_2",
 		"YRTSK_Moto_Mechanic",
-		"YRTSK_Moto_Monstrosity"
+		"YRTSK_Moto_Monstrosity",
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_ExoSoldier"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
