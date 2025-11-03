@@ -9,7 +9,10 @@
     ],
     "mods": [
         "YRTSK_Furniture_Pack",
-        "YRTSK_Moto_Mechanic"
+        "YRTSK_Moto_Mechanic",
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_Wasp_Scarab",
+		"YRTSK_Wasp_Nomad"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
