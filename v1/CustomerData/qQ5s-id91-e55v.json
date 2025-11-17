@@ -2,15 +2,15 @@
     "is_active_key": 1,
     "ips": [
         "212.22.93.76",
-        "212.22.93.59",
-		"212.22.92.19"
+        "212.22.93.59"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Vehicle_Dagor"
+        "YRTSK_Vehicle_Dagor",
+		"YRTSK_Save_Item"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
