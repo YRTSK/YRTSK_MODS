@@ -50,7 +50,8 @@
 		"YRTSK_Pumpkin_Bro",
 		"YRTSK_Wasp_Raider",
 		"YRTSK_Wasp_Stellaris",
-		"YRTSK_Space_WP"
+		"YRTSK_Space_WP",
+		"YRTSK_SciFi_Containers"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
