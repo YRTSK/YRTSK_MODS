@@ -14,7 +14,9 @@
 		"YRTSK_Moto_Metropolis",
 		"YRTSK_Cyborg_Sets",
 		"YRTSK_ExoSoldier",
-		"YRTSK_Wasp_Olympus"
+		"YRTSK_Wasp_Olympus",
+		"YRTSK_Furniture_Pack",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
