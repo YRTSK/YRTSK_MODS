@@ -8,7 +8,9 @@
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Wasp_Nomad"
+        "YRTSK_Wasp_Nomad",
+		"YRTSK_Moto_Mechanic",
+		"YRTSK_Drone_Support"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
