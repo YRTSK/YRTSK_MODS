@@ -11,7 +11,9 @@
         "YRTSK_Wasp_Falcon",
 		"YRTSK_Moto_Monstrosity",
 		"YRTSK_Vehicle_Dagor",
-		"YRTSK_Wasp_Nomad"
+		"YRTSK_Wasp_Nomad",
+		"YRTSK_Covenants_Elite",
+		"YRTSK_Moto_Monstrosity"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
