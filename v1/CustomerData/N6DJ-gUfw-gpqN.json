@@ -15,7 +15,8 @@
         "YRTSK_Moto_Monstrosity",
 		"YRTSK_Moto_Eidolon",
 		"YRTSK_AlienPod",
-		"YRTSK_Wasp_Olympus"
+		"YRTSK_Wasp_Olympus",
+		"YRTSK_Wasp_Pirate"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
