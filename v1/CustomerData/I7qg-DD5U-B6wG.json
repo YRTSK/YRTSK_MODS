@@ -11,7 +11,9 @@
         "YRTSK_Cyborg_Sets",
         "YRTSK_Teleport_System",
         "YRTSK_Wasp_Scarab",
-        "YRTSK_Wasp_Interceptor"
+        "YRTSK_Wasp_Interceptor",
+        "YRTSK_AlienPod",
+        "YRTSK_Artifacts"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
