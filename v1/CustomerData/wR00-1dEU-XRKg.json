@@ -15,7 +15,8 @@
         "YRTSK_Wasp_Nomad",
         "YRTSK_Moto_Monstrosity",
 		"YRTSK_ExoSoldier",
-		"YRTSK_AlienPod"
+		"YRTSK_AlienPod",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
