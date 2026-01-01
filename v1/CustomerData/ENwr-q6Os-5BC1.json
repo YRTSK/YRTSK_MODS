@@ -14,7 +14,9 @@
 		"YRTSK_Wasp_Nomad",
 		"YRTSK_Drone_Support",
 		"YRTSK_Moto_Monstrosity",
-		"YRTSK_Space_WP"
+		"YRTSK_Space_WP",
+		"YRTSK_Wasp_Interceptor",
+		"YRTSK_Wasp_Falcon"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
