@@ -22,7 +22,8 @@
 		"YRTSK_Pumpkin_Bro",
 		"YRTSK_Vehicle_Exoplanet_Rover",
 		"YRTSK_AlienPod",
-		"YRTSK_Drone_Support"
+		"YRTSK_Drone_Support",
+		"YRTSK_HVR_Van_1"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
