@@ -18,7 +18,8 @@
 		"YRTSK_AlienPod",
 		"YRTSK_Wasp_Olympus",
 		"YRTSK_Wasp_Pirate",
-		"YRTSK_Wasp_Stellaris"
+		"YRTSK_Wasp_Stellaris",
+		"YRTSK_ExoSoldier"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
