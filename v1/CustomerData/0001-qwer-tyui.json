@@ -55,7 +55,8 @@
 		"YRTSK_Drones",
 		"YRTSK_Drone_Support",
 		"YRTSK_Halo_Pack_4",
-		"YRTSK_HVR_Van_1"
+		"YRTSK_HVR_Van_1",
+		"YRTSK_Jetpack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
