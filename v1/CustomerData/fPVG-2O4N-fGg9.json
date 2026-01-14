@@ -15,7 +15,8 @@
 		"YRTSK_Car_Damager",
 		"YRTSK_Pumpkin_Bro",
 		"YRTSK_AlienPod",
-		"YRTSK_Halo_Pack_4"
+		"YRTSK_Halo_Pack_4",
+		"YRTSK_Jetpack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
