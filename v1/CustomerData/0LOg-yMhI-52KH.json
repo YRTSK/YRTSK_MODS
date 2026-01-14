@@ -33,7 +33,8 @@
 		"YRTSK_Armory_Pack",
 		"YRTSK_Hero_Weapon_Pack",
 		"YRTSK_Vehicle_Exoplanet_Rover",
-		"YRTSK_Moto_Metropolis"
+		"YRTSK_Moto_Metropolis",
+		"YRTSK_Jetpack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
