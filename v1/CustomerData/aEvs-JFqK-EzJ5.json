@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_Wasp_Falcon",
 		"YRTSK_Pumpkin_Bro",
-		"YRTSK_Car_Damager"
+		"YRTSK_Car_Damager",
+		"YRTSK_Jetpack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
