@@ -20,7 +20,8 @@
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Covenants_Elite",
         "YRTSK_ExoSoldier",
-		"YRTSK_Armory_Pack"
+		"YRTSK_Armory_Pack",
+		"YRTSK_Artifacts"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
