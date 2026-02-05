@@ -22,7 +22,8 @@
 		"YRTSK_Save_Item",
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_CyberCar",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
