@@ -12,7 +12,9 @@
         "YRTSK_Armory_Pack",
 		"YRTSK_Wasp_Nomad",
 		"YRTSK_Moto_Mechanic",
-		"YRTSK_Space_WP"
+		"YRTSK_Space_WP",
+		"YRTSK_Wasp_Olympus",
+		"YRTSK_Wasp_Stellaris"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
