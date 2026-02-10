@@ -39,7 +39,8 @@
 		"YRTSK_Space_WP",
 		"YRTSK_Halo_Pack_4",
 		"YRTSK_Armory_Pack",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_Wasp_Raven"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
