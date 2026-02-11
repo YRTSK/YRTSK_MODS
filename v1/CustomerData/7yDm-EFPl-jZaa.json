@@ -10,7 +10,8 @@
     ],
     "mods": [
         "YRTSK_AlienPod",
-        "YRTSK_Wasp_Pirate"
+        "YRTSK_Wasp_Pirate",
+        "YRTSK_Artifacts"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
