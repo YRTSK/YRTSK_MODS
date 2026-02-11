@@ -20,7 +20,8 @@
 		"YRTSK_Covenants_Elite",
 		"YRTSK_Wasp_Fighter",
 		"YRTSK_AlienPod",
-		"YRTSK_Moto_Santa"
+		"YRTSK_Moto_Santa",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
