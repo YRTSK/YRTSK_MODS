@@ -25,6 +25,7 @@
 		"YRTSK_Drone_Support",
 		"YRTSK_Jetpack",
 		"YRTSK_Wasp_Olympus",
+		"YRTSK_Wasp_Raven",
 		"YRTSK_HVR_Van_1"
     ],
     "enable_ip_notify": 1,
