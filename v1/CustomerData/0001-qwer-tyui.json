@@ -57,7 +57,8 @@
 		"YRTSK_Halo_Pack_4",
 		"YRTSK_HVR_Van_1",
 		"YRTSK_Jetpack",
-		"YRTSK_Wasp_Raven"
+		"YRTSK_Wasp_Raven",
+		"YRTSK_CarPacker"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
