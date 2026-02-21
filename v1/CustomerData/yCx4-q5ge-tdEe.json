@@ -2,7 +2,8 @@
     "is_active_key": 1,
     "ips": [
 		"213.166.84.8",
-		"213.166.84.5"
+		"213.166.84.5",
+		"194.50.234.112"
     ],
     "names": [
         ["test","project","name"],
@@ -23,7 +24,10 @@
 		"YRTSK_Furniture_Pack",
 		"YRTSK_Jetpack",
 		"YRTSK_Wasp_Stellaris",
-		"YRTSK_Wasp_Raven"
+		"YRTSK_Wasp_Raven",
+		"YRTSK_Wasp_Interceptor",
+		"YRTSK_Artifacts",
+		"YRTSK_Halo_Pack_4"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
