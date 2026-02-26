@@ -9,7 +9,8 @@
     ],
     "mods": [
         "YRTSK_Jetpack",
-        "YRTSK_Wasp_Raven"
+        "YRTSK_Wasp_Raven",
+        "YRTSK_Hero_Weapon_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
