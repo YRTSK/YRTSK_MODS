@@ -1,0 +1,19 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "168.119.79.144"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Cyborg_Sets",
+        "YRTSK_StaticProps_2",
+        "YRTSK_Furniture_Pack"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}
