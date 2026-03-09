@@ -14,7 +14,8 @@
         "YRTSK_StaticProps_2",
         "YRTSK_AlienPod",
         "YRTSK_Drone_Support",
-        "YRTSK_CarPacker"
+        "YRTSK_CarPacker",
+        "YRTSK_Teleport_System"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
