@@ -16,7 +16,8 @@
         "YRTSK_Moto_Monstrosity",
 		"YRTSK_ExoSoldier",
 		"YRTSK_AlienPod",
-		"YRTSK_StaticProps_2"
+		"YRTSK_StaticProps_2",
+		"YRTSK_CarPacker"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
