@@ -12,7 +12,8 @@
         "YRTSK_Covenants_Elite",
         "YRTSK_Wasp_Falcon",
 		"YRTSK_Moto_Monstrosity",
-		"YRTSK_StaticProps_2"
+		"YRTSK_StaticProps_2",
+		"YRTSK_AlienPod"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
