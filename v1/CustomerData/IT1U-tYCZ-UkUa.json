@@ -10,7 +10,9 @@
     ],
     "mods": [
         "YRTSK_Halo_Pack_4",
-        "YRTSK_Wasp_Raven"
+        "YRTSK_Wasp_Raven",
+        "YRTSK_Furniture_Pack",
+        "YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
