@@ -55,12 +55,13 @@
 		"YRTSK_Drones",
 		"YRTSK_Drone_Support",
 		"YRTSK_Halo_Pack_4",
+		"YRTSK_Jetpack",
+		"YRTSK_Wasp_Raven",
+		"YRTSK_CarPacker",
 		"YRTSK_HVR_Van_1",
 		"YRTSK_HVR_Van_2",
 		"YRTSK_HVR_SuperSport",
-		"YRTSK_Jetpack",
-		"YRTSK_Wasp_Raven",
-		"YRTSK_CarPacker"
+		"YRTSK_HVR_Police"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
