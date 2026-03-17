@@ -23,7 +23,8 @@
 		"YRTSK_StaticProps_2",
 		"YRTSK_Jetpack",
 		"YRTSK_CarPacker",
-		"YRTSK_Moto_Necro"
+		"YRTSK_Moto_Necro",
+		"YRTSK_HVR_Police"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
