@@ -1,14 +1,15 @@
 {
     "is_active_key": 1,
     "ips": [
-        "194.50.234.124"
+        "216.158.229.36"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Halo_Pack_4"
+        "YRTSK_Wasp_Raven",
+        "YRTSK_Wasp_Olympus"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
