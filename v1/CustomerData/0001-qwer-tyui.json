@@ -61,7 +61,8 @@
 		"YRTSK_HVR_Van_1",
 		"YRTSK_HVR_Van_2",
 		"YRTSK_HVR_SuperSport",
-		"YRTSK_HVR_Police"
+		"YRTSK_HVR_Police",
+		"YRTSK_HVR_Sedan_1"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
