@@ -10,7 +10,8 @@
     ],
     "mods": [
         "YRTSK_Wasp_Olympus",
-        "YRTSK_Drone_Support"
+        "YRTSK_Drone_Support",
+        "YRTSK_Space_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
