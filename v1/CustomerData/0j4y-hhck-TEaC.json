@@ -18,7 +18,8 @@
         "YRTSK_Teleport_System",
         "YRTSK_ExoSoldier",
         "YRTSK_Wasp_Scarab",
-        "YRTSK_Furniture_Pack"
+        "YRTSK_Furniture_Pack",
+        "YRTSK_Space_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
