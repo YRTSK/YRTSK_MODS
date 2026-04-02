@@ -26,7 +26,8 @@
 		"YRTSK_Jetpack",
 		"YRTSK_Wasp_Olympus",
 		"YRTSK_Wasp_Raven",
-		"YRTSK_HVR_Van_1"
+		"YRTSK_HVR_Van_1",
+		"YRTSK_Artifacts"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
