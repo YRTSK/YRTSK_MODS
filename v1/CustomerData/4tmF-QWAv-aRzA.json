@@ -11,7 +11,8 @@
     "mods": [
         "YRTSK_CarPacker",
         "YRTSK_Furniture_Pack",
-        "YRTSK_ExoSoldier"
+        "YRTSK_ExoSoldier",
+        "YRTSK_Wasp_Raven"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
