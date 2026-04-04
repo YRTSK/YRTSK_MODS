@@ -25,7 +25,8 @@
 		"YRTSK_CarPacker",
 		"YRTSK_Moto_Necro",
 		"YRTSK_HVR_Police",
-		"YRTSK_PlayerMenu"
+		"YRTSK_PlayerMenu",
+		"YRTSK_Furniture_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
