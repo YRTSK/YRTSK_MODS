@@ -1,14 +1,15 @@
 {
     "is_active_key": 1,
     "ips": [
-        "0.0.0.0"
+        "74.50.77.58"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        ""
+        "YRTSK_Jetpack",
+		"YRTSK_Wasp_Raven"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
