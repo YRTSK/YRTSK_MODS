@@ -28,7 +28,9 @@
 		"YRTSK_Halo_Pack_4",
 		"YRTSK_Car_Damager",
 		"YRTSK_Vehicle_Dagor",
-		"YRTSK_Wasp_Scarab"
+		"YRTSK_Wasp_Scarab",
+		"YRTSK_Locked_Doors",
+		"YRTSK_Space_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
