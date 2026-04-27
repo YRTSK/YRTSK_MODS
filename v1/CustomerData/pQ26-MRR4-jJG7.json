@@ -19,7 +19,8 @@
         "YRTSK_Moto_Mechanic",
         "YRTSK_Moto_Metropolis",
         "YRTSK_Moto_Monstrosity",
-		"YRTSK_AlienPod"
+		"YRTSK_AlienPod",
+		"YRTSK_Wasp_Olympus"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
