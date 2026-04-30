@@ -44,7 +44,8 @@
 		"YRTSK_Jetpack",
 		"YRTSK_Wasp_Raven",
 		"YRTSK_CarPacker",
-		"YRTSK_Locked_Doors"
+		"YRTSK_Locked_Doors",
+		"YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
