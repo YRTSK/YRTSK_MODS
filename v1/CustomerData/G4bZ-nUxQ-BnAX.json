@@ -11,7 +11,8 @@
     "mods": [
         "YRTSK_Jetpack",
         "YRTSK_Artifacts",
-        "YRTSK_CarPacker"
+        "YRTSK_CarPacker",
+        "YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
