@@ -23,7 +23,8 @@
 		"YRTSK_Jetpack",
 		"YRTSK_Wasp_Raven",
 		"YRTSK_CarPacker",
-		"YRTSK_AlienPod"
+		"YRTSK_AlienPod",
+		"YRTSK_Wasp_Stellaris"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
