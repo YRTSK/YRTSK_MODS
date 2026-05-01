@@ -15,7 +15,8 @@
 		"YRTSK_Halo_Pack_4",
 		"YRTSK_Moto_Santa",
 		"YRTSK_Furniture_Pack",
-		"YRTSK_Drone_Support"
+		"YRTSK_Drone_Support",
+		"YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
