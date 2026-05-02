@@ -19,7 +19,8 @@
         "YRTSK_ExoSoldier",
         "YRTSK_Wasp_Fighter",
         "YRTSK_Drone_Support",
-        "YRTSK_CarPacker"
+        "YRTSK_CarPacker",
+        "YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
