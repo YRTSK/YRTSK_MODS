@@ -21,7 +21,11 @@
 		"YRTSK_Moto_Monstrosity",
 		"YRTSK_StaticProps_2",
 		"YRTSK_Pumpkin_Bro",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_Wasp_Raven",
+		"YRTSK_Wasp_Scarab",
+		"YRTSK_Covenants_Elite",
+		"YRTSK_Space_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
