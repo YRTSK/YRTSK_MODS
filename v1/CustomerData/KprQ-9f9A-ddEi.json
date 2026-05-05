@@ -12,7 +12,9 @@
         "YRTSK_Wasp_Interceptor",
         "YRTSK_Moto_Mechanic",
 		"YRTSK_Save_Item",
-		"YRTSK_Pumpkin_Bro"
+		"YRTSK_Pumpkin_Bro",
+		"YRTSK_Wasp_Olympus",
+		"YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
