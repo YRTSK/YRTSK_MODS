@@ -22,7 +22,10 @@
 		"YRTSK_AlienPod",
 		"YRTSK_Moto_Santa",
 		"YRTSK_StaticProps_2",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_Rune_Stones",
+		"YRTSK_Halo_Pack_4",
+		"YRTSK_Wasp_Stellaris"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
