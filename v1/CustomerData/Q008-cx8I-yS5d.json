@@ -28,7 +28,8 @@
 		"YRTSK_PlayerMenu",
 		"YRTSK_Furniture_Pack",
 		"YRTSK_Artifacts",
-		"YRTSK_AlienPod"
+		"YRTSK_AlienPod",
+		"YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
