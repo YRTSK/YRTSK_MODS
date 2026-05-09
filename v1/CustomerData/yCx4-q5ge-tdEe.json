@@ -30,7 +30,10 @@
 		"YRTSK_Vehicle_Dagor",
 		"YRTSK_Wasp_Scarab",
 		"YRTSK_Locked_Doors",
-		"YRTSK_Space_WP"
+		"YRTSK_Space_WP",
+		"YRTSK_AlienPod",
+		"YRTSK_Drone_Support",
+		"YRTSK_SciFi_Containers"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
