@@ -15,7 +15,9 @@
         "YRTSK_Wasp_Scarab",
         "YRTSK_Wasp_Stalker",
         "YRTSK_Wasp_Falcon",
-        "YRTSK_Wasp_Fighter"
+        "YRTSK_Wasp_Fighter",
+        "YRTSK_Furniture_Pack",
+        "YRTSK_CarPacker"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
