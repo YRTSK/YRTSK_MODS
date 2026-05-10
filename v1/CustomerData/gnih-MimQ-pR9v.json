@@ -14,7 +14,9 @@
         "YRTSK_Furniture_Pack",
         "YRTSK_Jetpack",
         "YRTSK_Wasp_Stellaris",
-        "YRTSK_Wasp_Nomad"
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_CarPacker",
+        "YRTSK_Wasp_Scarab"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
