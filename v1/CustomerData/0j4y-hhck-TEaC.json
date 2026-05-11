@@ -21,7 +21,8 @@
         "YRTSK_Furniture_Pack",
         "YRTSK_Space_WP",
         "YRTSK_Covenants_Elite",
-        "YRTSK_Locked_Doors"
+        "YRTSK_Locked_Doors",
+        "YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
