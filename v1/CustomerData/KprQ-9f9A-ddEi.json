@@ -14,7 +14,9 @@
 		"YRTSK_Save_Item",
 		"YRTSK_Pumpkin_Bro",
 		"YRTSK_Wasp_Olympus",
-		"YRTSK_Rune_Stones"
+		"YRTSK_Rune_Stones",
+		"YRTSK_Wasp_Falcon",
+		"YRTSK_Wasp_Stellaris"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
