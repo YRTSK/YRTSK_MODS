@@ -16,7 +16,8 @@
         "YRTSK_Wasp_Drakos",
 		"YRTSK_Wasp_Falcon",
 		"YRTSK_Moto_Santa",
-		"YRTSK_Jetpack"
+		"YRTSK_Teleport_System",
+		"YRTSK_Save_Item"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
