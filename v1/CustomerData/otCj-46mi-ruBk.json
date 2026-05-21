@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Furniture_Pack",
-        "YRTSK_StaticProps_2"
+        "YRTSK_StaticProps_2",
+        "YRTSK_Drone_Support"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
