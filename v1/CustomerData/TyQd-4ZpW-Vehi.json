@@ -9,7 +9,10 @@
     ],
     "mods": [
         "YRTSK_Wasp_Pirate",
-        "YRTSK_Wasp_Raven"
+        "YRTSK_Wasp_Raven",
+        "YRTSK_Artifacts",
+        "YRTSK_Save_Item",
+        "YRTSK_Drone_Support"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
