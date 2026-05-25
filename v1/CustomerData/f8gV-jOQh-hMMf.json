@@ -12,7 +12,11 @@
     ],
     "mods": [
         "YRTSK_Covenants_Elite",
-		"YRTSK_AlienPod"
+		"YRTSK_AlienPod",
+		"YRTSK_Artifacts",
+		"YRTSK_Wasp_Scarab",
+		"YRTSK_Wasp_Pirate",
+		"YRTSK_Moto_Gryphon"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
