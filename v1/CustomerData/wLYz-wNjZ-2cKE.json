@@ -15,7 +15,8 @@
 		"YRTSK_Jetpack",
 		"YRTSK_Wasp_Nomad",
 		"YRTSK_Cyborg_Sets",
-		"YRTSK_Furniture_Pack"
+		"YRTSK_Furniture_Pack",
+		"YRTSK_Rent_Items"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
