@@ -1,18 +1,14 @@
 {
     "is_active_key": 1,
     "ips": [
-		"5.252.101.142",
-		"5.252.102.240"
+        "195.18.27.181"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Jetpack",
-        "YRTSK_Artifacts",
-        "YRTSK_CarPacker",
-        "YRTSK_Rune_Stones"
+        "YRTSK_Drone_Support"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
