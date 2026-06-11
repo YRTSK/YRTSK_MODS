@@ -25,7 +25,8 @@
 		"YRTSK_Wasp_Raven",
 		"YRTSK_Wasp_Scarab",
 		"YRTSK_Covenants_Elite",
-		"YRTSK_Space_WP"
+		"YRTSK_Space_WP",
+		"YRTSK_Save_Item"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
