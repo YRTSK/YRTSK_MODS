@@ -10,7 +10,9 @@
     "mods": [
         "YRTSK_Moto_Gryphon",
         "YRTSK_Wasp_Raider",
-        "YRTSK_Wasp_DropShip"
+        "YRTSK_Wasp_DropShip",
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Wasp_Scarab"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
