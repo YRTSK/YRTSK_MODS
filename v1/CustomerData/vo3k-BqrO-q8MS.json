@@ -9,7 +9,8 @@
     ],
     "mods": [
         "YRTSK_ExoSoldier",
-		"YRTSK_Moto_Monstrosity"
+		"YRTSK_Moto_Monstrosity",
+		"YRTSK_Locked_Doors"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
