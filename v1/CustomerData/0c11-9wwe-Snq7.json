@@ -8,7 +8,12 @@
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Wasp_Stellaris"
+        "YRTSK_Wasp_Stellaris",
+        "YRTSK_Wasp_Olympus",
+        "YRTSK_Wasp_DropShip",
+        "YRTSK_StaticProps_2",
+        "YRTSK_Moto_Santa",
+        "YRTSK_Moto_Monstrosity"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
