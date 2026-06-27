@@ -16,7 +16,8 @@
 		"YRTSK_StaticProps_2",
 		"YRTSK_AlienPod",
 		"YRTSK_Drone_Support",
-		"YRTSK_Moto_Necro"
+		"YRTSK_Moto_Necro",
+		"YRTSK_Space_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
