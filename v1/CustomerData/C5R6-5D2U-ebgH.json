@@ -1,0 +1,27 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "161.129.70.202",
+        "69.169.96.26",
+        "173.225.109.146",
+        "191.101.30.158",
+        "66.45.225.138"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Covenants_Elite",
+        "YRTSK_Pumpkin_Bro",
+        "YRTSK_StaticProps_2",
+        "YRTSK_AlienPod",
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Furniture_Pack",
+        "YRTSK_Moto_Gryphon",
+        "YRTSK_Wasp_Stellaris"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}
