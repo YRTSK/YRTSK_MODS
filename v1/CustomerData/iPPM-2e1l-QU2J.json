@@ -15,7 +15,9 @@
 		"YRTSK_Save_Item",
 		"YRTSK_Artifacts",
 		"YRTSK_CyberCar",
-		"YRTSK_Vehicle_Exoplanet_Rover"
+		"YRTSK_Vehicle_Exoplanet_Rover",
+		"YRTSK_Locked_Doors",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
