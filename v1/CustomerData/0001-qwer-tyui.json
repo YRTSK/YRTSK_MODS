@@ -68,8 +68,7 @@
 		"YRTSK_HVR_Sedan_1",
 		"YRTSK_HVR_SUV",
 		"YRTSK_HVR_Taxi",
-		"YRTSK_Rent_Items",
-		"YRTSK_MA5C_WP"
+		"YRTSK_Rent_Items"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
