@@ -17,7 +17,8 @@
 		"YRTSK_Furniture_Pack",
 		"YRTSK_Drone_Support",
 		"YRTSK_Rune_Stones",
-		"YRTSK_StaticProps_2"
+		"YRTSK_StaticProps_2",
+		"YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
