@@ -47,7 +47,9 @@
 		"YRTSK_CarPacker",
 		"YRTSK_Locked_Doors",
 		"YRTSK_Rune_Stones",
-		"YRTSK_CAT_Atlas"
+		"YRTSK_CAT_Atlas",
+		"YRTSK_Mongoose_2",
+		"YRTSK_MA5C_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
