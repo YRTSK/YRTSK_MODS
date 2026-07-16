@@ -18,7 +18,8 @@
 		"YRTSK_AlienPod",
 		"YRTSK_StaticProps_2",
 		"YRTSK_CarPacker",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
