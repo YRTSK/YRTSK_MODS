@@ -13,7 +13,8 @@
 		"YRTSK_Save_Item",
 		"YRTSK_AlienPod",
 		"YRTSK_Astralis",
-		"YRTSK_Teleport_System"
+		"YRTSK_Teleport_System",
+		"YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
