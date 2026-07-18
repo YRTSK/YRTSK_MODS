@@ -32,7 +32,10 @@
 		"YRTSK_Wasp_Olympus",
 		"YRTSK_AlienPod",
 		"YRTSK_Jetpack",
-		"YRTSK_Teleport_System"
+		"YRTSK_Teleport_System",
+		"YRTSK_CAT_Atlas",
+		"YRTSK_Mongoose_2",
+		"YRTSK_MA5C_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
