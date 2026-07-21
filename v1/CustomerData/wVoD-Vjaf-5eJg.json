@@ -19,7 +19,10 @@
 		"YRTSK_Pumpkin_Bro",
 		"YRTSK_CarPacker",
 		"YRTSK_Halo_Pack_4",
-		"YRTSK_Artifacts"
+		"YRTSK_Artifacts",
+		"YRTSK_Wasp_DropShip",
+		"YRTSK_CAT_Atlas",
+		"YRTSK_Wasp_Raven"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
