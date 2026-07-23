@@ -10,7 +10,8 @@
     ],
     "mods": [
         "YRTSK_Wasp_Raven",
-        "YRTSK_Wasp_Olympus"
+        "YRTSK_Wasp_Olympus",
+        "YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
