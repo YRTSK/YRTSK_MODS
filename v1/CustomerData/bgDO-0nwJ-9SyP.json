@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_Wasp_Interceptor",
         "YRTSK_Wasp_Nomad",
-		"YRTSK_Artifacts"
+		"YRTSK_Artifacts",
+		"YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
