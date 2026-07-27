@@ -72,8 +72,7 @@
 		"YRTSK_Rent_Items",
 		"YRTSK_MA5C_WP",
 		"YRTSK_Mongoose_2",
-		"YRTSK_CAT_Atlas",
-		"YRTSK_BOSS_Hybrid"
+		"YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
