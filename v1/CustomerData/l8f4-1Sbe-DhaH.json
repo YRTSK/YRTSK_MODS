@@ -1,0 +1,27 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "38.44.168.7"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_CAT_Atlas",
+        "YRTSK_Wasp_DropShip",
+        "YRTSK_Wasp_Stellaris",
+        "YRTSK_Wasp_Raven",
+        "YRTSK_Wasp_Pirate",
+        "YRTSK_Wasp_Olympus",
+        "YRTSK_Wasp_Drakos",
+        "YRTSK_Furniture_Pack",
+        "YRTSK_StaticProps_2",
+        "YRTSK_Drone_Support",
+        "YRTSK_Jetpack",
+        "YRTSK_Mini_Rover"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}
