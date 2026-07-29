@@ -49,7 +49,8 @@
 		"YRTSK_Rune_Stones",
 		"YRTSK_CAT_Atlas",
 		"YRTSK_Mongoose_2",
-		"YRTSK_MA5C_WP"
+		"YRTSK_MA5C_WP",
+		"YRTSK_BOSS_Hybrid"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
