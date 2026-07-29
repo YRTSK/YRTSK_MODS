@@ -19,7 +19,8 @@
 		"YRTSK_StaticProps_2",
 		"YRTSK_CarPacker",
 		"YRTSK_Jetpack",
-		"YRTSK_Rune_Stones"
+		"YRTSK_Rune_Stones",
+		"YRTSK_BOSS_Hybrid"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
