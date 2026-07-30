@@ -17,7 +17,9 @@
 		"YRTSK_Mini_Rover",
 		"YRTSK_CyberCar",
 		"YRTSK_Moto_Santa",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_BOSS_Hybrid",
+		"YRTSK_BOSS_Rocky"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
