@@ -1,0 +1,17 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "90.187.227.89"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_CAT_Atlas",
+        "YRTSK_Drone_Support"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}
