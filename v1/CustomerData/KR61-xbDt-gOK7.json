@@ -51,7 +51,8 @@
 		"YRTSK_Mongoose_2",
 		"YRTSK_MA5C_WP",
 		"YRTSK_BOSS_Hybrid",
-		"YRTSK_BOSS_Hornet"
+		"YRTSK_BOSS_Hornet",
+		"YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
