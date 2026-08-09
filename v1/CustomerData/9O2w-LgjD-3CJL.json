@@ -12,7 +12,8 @@
         "YRTSK_CarPacker",
         "YRTSK_CAT_Atlas",
         "YRTSK_Wasp_Stalker",
-        "YRTSK_Wasp_DropShip"
+        "YRTSK_Wasp_DropShip",
+        "YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
