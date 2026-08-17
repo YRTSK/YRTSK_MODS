@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Wasp_Interceptor",
-        "YRTSK_Halo_Pack_4"
+        "YRTSK_Halo_Pack_4",
+        "YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
