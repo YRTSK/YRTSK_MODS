@@ -17,7 +17,8 @@
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_Wasp_DropShip",
 		"YRTSK_Space_WP",
-		"YRTSK_Wasp_Spy"
+		"YRTSK_Wasp_Spy",
+		"YRTSK_Furniture_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
