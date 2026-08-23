@@ -20,7 +20,8 @@
 		"YRTSK_Moto_Santa",
 		"YRTSK_BOSS_Hybrid",
 		"YRTSK_BOSS_Rocky",
-		"YRTSK_BOSS_Hornet"
+		"YRTSK_BOSS_Hornet",
+		"YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
