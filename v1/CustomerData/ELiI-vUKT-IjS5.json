@@ -26,7 +26,9 @@
 		"YRTSK_Jetpack",
 		"YRTSK_Rune_Stones",
 		"YRTSK_Halo_Pack_4",
-		"YRTSK_Wasp_Stellaris"
+		"YRTSK_Wasp_Stellaris",
+		"YRTSK_BOSS_Rocky",
+		"YRTSK_Wasp_DropShip"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
