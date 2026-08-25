@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_BOSS_Hybrid",
         "YRTSK_CarPacker",
-        "YRTSK_ExoVault"
+        "YRTSK_ExoVault",
+        "YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
