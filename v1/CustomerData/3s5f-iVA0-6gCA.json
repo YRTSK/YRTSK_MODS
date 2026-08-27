@@ -15,7 +15,9 @@
         "YRTSK_Moto_Monstrosity",
         "YRTSK_Moto_Santa",
         "YRTSK_Moto_Shark",
-		"YRTSK_Furniture_Pack"
+		"YRTSK_Furniture_Pack",
+		"YRTSK_CAT_Atlas",
+		"YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
