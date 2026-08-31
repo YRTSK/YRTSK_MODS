@@ -30,7 +30,8 @@
 		"YRTSK_Artifacts",
 		"YRTSK_Rune_Stones",
 		"YRTSK_Space_WP",
-		"YRTSK_Wasp_DropShip"
+		"YRTSK_Wasp_DropShip",
+		"YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
