@@ -18,7 +18,11 @@
 		"YRTSK_Halo_Pack_4",
 		"YRTSK_Jetpack",
 		"YRTSK_Save_Item",
-		"YRTSK_CarPacker"
+		"YRTSK_CarPacker",
+		"YRTSK_BOSS_Rocky",
+		"YRTSK_BOSS_Hornet",
+		"YRTSK_Wasp_Spy",
+		"YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
