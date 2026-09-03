@@ -11,7 +11,9 @@
         "YRTSK_CarPacker",
         "YRTSK_Wasp_Raven",
         "YRTSK_Furniture_Pack",
-        "YRTSK_BOSS_Hybrid"
+        "YRTSK_BOSS_Hybrid",
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Moto_Shark"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
