@@ -11,7 +11,8 @@
     "mods": [
         "YRTSK_Moto_Gryphon",
 		"YRTSK_Wasp_Nomad",
-		"YRTSK_Wasp_Falcon"
+		"YRTSK_Wasp_Falcon",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
