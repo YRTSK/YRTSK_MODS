@@ -32,7 +32,8 @@
 		"YRTSK_Space_WP",
 		"YRTSK_Wasp_DropShip",
 		"YRTSK_Wasp_Spy",
-		"YRTSK_CAT_Atlas"
+		"YRTSK_CAT_Atlas",
+		"YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
