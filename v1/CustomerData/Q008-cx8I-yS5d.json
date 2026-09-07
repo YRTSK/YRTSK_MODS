@@ -32,7 +32,8 @@
 		"YRTSK_Rune_Stones",
 		"YRTSK_CAT_Atlas",
 		"YRTSK_BOSS_Rocky",
-		"YRTSK_BOSS_Hornet"
+		"YRTSK_BOSS_Hornet",
+		"YRTSK_Wasp_Spy"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
