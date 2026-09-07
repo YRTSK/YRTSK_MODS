@@ -27,7 +27,9 @@
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_Teleport_System",
 		"YRTSK_Wasp_Stellaris",
-		"YRTSK_Astralis"
+		"YRTSK_Astralis",
+		"YRTSK_ExoVault",
+		"YRTSK_Halo_Pack_4"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
