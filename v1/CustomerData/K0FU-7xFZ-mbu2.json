@@ -21,7 +21,8 @@
         "YRTSK_ExoSoldier",
 		"YRTSK_Armory_Pack",
 		"YRTSK_Artifacts",
-		"YRTSK_Save_Item"
+		"YRTSK_Save_Item",
+		"YRTSK_Rune_Stones"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
