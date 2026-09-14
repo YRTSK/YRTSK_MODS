@@ -33,7 +33,8 @@
 		"YRTSK_CAT_Atlas",
 		"YRTSK_BOSS_Rocky",
 		"YRTSK_BOSS_Hornet",
-		"YRTSK_Wasp_Spy"
+		"YRTSK_Wasp_Spy",
+		"YRTSK_Wasp_Olympus"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
