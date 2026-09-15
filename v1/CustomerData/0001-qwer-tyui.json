@@ -70,7 +70,8 @@
 		"YRTSK_BOSS_Hybrid",
 		"YRTSK_BOSS_Rocky",
 		"YRTSK_BOSS_Hornet",
-		"YRTSK_ExoVault"
+		"YRTSK_ExoVault",
+		"YRTSK_BOSS_Incinerator"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
