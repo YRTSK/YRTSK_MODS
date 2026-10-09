@@ -19,7 +19,8 @@
         "YRTSK_Moto_Motive",
         "YRTSK_BOSS_Hybrid",
         "YRTSK_MA5C_WP",
-        "YRTSK_BOSS_Rocky"
+        "YRTSK_BOSS_Rocky",
+        "YRTSK_Astralis"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
