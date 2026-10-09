@@ -12,7 +12,9 @@
 		"YRTSK_Wasp_Olympus",
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_Wasp_Nomad",
-		"YRTSK_Wasp_DropShip"
+		"YRTSK_Wasp_DropShip",
+		"YRTSK_BOSS_Incinerator",
+		"YRTSK_Pumpkin_Bro"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
