@@ -27,7 +27,10 @@
 		"YRTSK_Covenants_Elite",
 		"YRTSK_Space_WP",
 		"YRTSK_Save_Item",
-		"YRTSK_CAT_Atlas"
+		"YRTSK_CAT_Atlas",
+		"YRTSK_BOSS_Hybrid",
+		"YRTSK_BOSS_Rocky",
+		"YRTSK_BOSS_Hornet"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
