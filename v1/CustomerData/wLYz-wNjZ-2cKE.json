@@ -18,7 +18,8 @@
 		"YRTSK_Furniture_Pack",
 		"YRTSK_Rent_Items",
 		"YRTSK_BOSS_Hybrid",
-		"YRTSK_BOSS_Hornet"
+		"YRTSK_BOSS_Hornet",
+		"YRTSK_SciFi_Containers"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
