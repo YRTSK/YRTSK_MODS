@@ -20,7 +20,8 @@
 		"YRTSK_Wasp_Pirate",
 		"YRTSK_Wasp_Stellaris",
 		"YRTSK_ExoSoldier",
-		"YRTSK_Jetpack"
+		"YRTSK_Jetpack",
+		"YRTSK_SciFi_Containers"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
