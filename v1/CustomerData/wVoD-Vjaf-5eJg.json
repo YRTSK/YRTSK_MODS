@@ -22,7 +22,8 @@
 		"YRTSK_Artifacts",
 		"YRTSK_Wasp_DropShip",
 		"YRTSK_CAT_Atlas",
-		"YRTSK_Wasp_Raven"
+		"YRTSK_Wasp_Raven",
+		"YRTSK_SciFi_Containers"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
