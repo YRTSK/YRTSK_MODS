@@ -35,7 +35,8 @@
 		"YRTSK_Teleport_System",
 		"YRTSK_CAT_Atlas",
 		"YRTSK_Mongoose_2",
-		"YRTSK_MA5C_WP"
+		"YRTSK_MA5C_WP",
+		"YRTSK_Drone_Support"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
