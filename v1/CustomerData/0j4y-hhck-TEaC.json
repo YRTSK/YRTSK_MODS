@@ -22,7 +22,9 @@
         "YRTSK_Space_WP",
         "YRTSK_Covenants_Elite",
         "YRTSK_Locked_Doors",
-        "YRTSK_Rune_Stones"
+        "YRTSK_Rune_Stones",
+        "YRTSK_ExoVault",
+        "YRTSK_CAT_Atlas"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
