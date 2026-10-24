@@ -24,7 +24,8 @@
         "YRTSK_Locked_Doors",
         "YRTSK_Rune_Stones",
         "YRTSK_ExoVault",
-        "YRTSK_CAT_Atlas"
+        "YRTSK_CAT_Atlas",
+        "YRTSK_Armory_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
