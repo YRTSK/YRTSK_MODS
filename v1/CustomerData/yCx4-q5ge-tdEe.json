@@ -39,7 +39,14 @@
 		"YRTSK_BOSS_Hybrid",
 		"YRTSK_BOSS_Hornet",
 		"YRTSK_Wasp_Spy",
-		"YRTSK_BOSS_Incinerator"
+		"YRTSK_BOSS_Incinerator",
+		"YRTSK_Moto_Gryphon",
+		"YRTSK_Moto_Mechanic",
+		"YRTSK_Moto_Warrior",
+		"YRTSK_Moto_Shark",
+		"YRTSK_Moto_Motive",
+		"YRTSK_Moto_Metropolis",
+		"YRTSK_Wasp_Nomad"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
