@@ -29,7 +29,11 @@
 		"YRTSK_Halo_Pack_4",
 		"YRTSK_BOSS_Rocky",
 		"YRTSK_BOSS_Hybrid",
-		"YRTSK_SciFi_Containers"
+		"YRTSK_SciFi_Containers",
+		"YRTSK_BOSS_Incinerator",
+		"YRTSK_Locked_Doors",
+		"YRTSK_StaticProps_2",
+		"YRTSK_Wasp_Raider"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
