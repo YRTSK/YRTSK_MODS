@@ -23,7 +23,8 @@
 		"YRTSK_Furniture_Pack",
 		"YRTSK_Vehicle_Dagor",
 		"YRTSK_Jetpack",
-		"YRTSK_Space_WP"
+		"YRTSK_Space_WP",
+		"YRTSK_Drone_Support"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
