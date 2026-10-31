@@ -20,7 +20,8 @@
 		"YRTSK_Artifacts",
 		"YRTSK_BOSS_Hornet",
 		"YRTSK_Furniture_Pack",
-		"YRTSK_BOSS_Incinerator"
+		"YRTSK_BOSS_Incinerator",
+		"YRTSK_MA5C_WP"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
