@@ -26,7 +26,8 @@
 		"YRTSK_Cyborg_Sets",
 		"YRTSK_Save_Item",
 		"YRTSK_Armory_Pack",
-		"YRTSK_Pumpkin_Bro"
+		"YRTSK_Pumpkin_Bro",
+		"YRTSK_SciFi_Containers"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
