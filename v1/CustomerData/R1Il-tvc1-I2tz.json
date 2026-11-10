@@ -14,7 +14,8 @@
         "YRTSK_Wasp_Spy",
         "YRTSK_Drone_Support",
         "YRTSK_Furniture_Pack",
-        "YRTSK_Jetpack"
+        "YRTSK_Jetpack",
+        "YRTSK_StaticProps_2"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
